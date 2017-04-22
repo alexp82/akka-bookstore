@@ -1,0 +1,1 @@
+name := "akka-bookstore-credit-processing"
